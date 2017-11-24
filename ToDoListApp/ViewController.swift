@@ -157,7 +157,7 @@ class ViewController: UIViewController, UITableViewDataSource, elementDelegate {
 
         if(tasks[indexPath.row].check == true) {
             cell.mySwitchOutlet.setOn(false, animated: true)
-            cell.backgroundColor = UIColor(red: 0.57, green : 0.94 , blue : 0.65, alpha : 1.0)
+            cell.backgroundColor = UIColor(red: 0.56, green : 0.94 , blue : 0.65, alpha : 1.0)
         }
         else {
             cell.mySwitchOutlet.setOn(true,animated: true)

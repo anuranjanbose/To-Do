@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FC9CB0816CC724CD3BB287F685C3E4F01DE07255",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FC9CB0816CC724CD3BB287F685C3E4F01DE07255" : 9223372036854775807,
+    "263E755F606F559DF1B5ABEA08F43D4F10701C9C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FCEA6E3A-9590-40CD-8455-87D9A97530B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FC9CB0816CC724CD3BB287F685C3E4F01DE07255" : "ToDoListApp\/",
+    "263E755F606F559DF1B5ABEA08F43D4F10701C9C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ToDoListApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ToDoListApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git+ssh:\/\/github.com\/anuranjanbose\/My_Projects",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "263E755F606F559DF1B5ABEA08F43D4F10701C9C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git+ssh:\/\/github.com\/anuranjanbose\/ToDoListApp_iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC9CB0816CC724CD3BB287F685C3E4F01DE07255"
+    }
+  ]
+}
